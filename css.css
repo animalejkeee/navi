@@ -1,0 +1,39 @@
+strong {
+		color: red;
+		}
+em {
+		color:green;
+		}
+.clearfix1 {
+	border: ridge 10px;
+	width: auti;
+	height:auto;
+}
+h1 {
+	text-align: center;
+	border: ridge 8px;
+	height: 40px;
+	width: auto;
+}
+.clearfix2 {
+	border: groove 8px; 
+	display: table;
+}
+.clearfix3 {
+	border: inset 6px; 
+	width: 400px;
+	height: auto;
+	margin: 20px;
+	padding: 4px;
+	float: left;
+	text-align: justify;
+}
+.clearfix4 {
+	border: outset 4px;
+	width: 400px;
+	height: auto;
+	margin: 20px;
+	padding: 4px;
+	float: right;
+	text-align: justify;
+}
